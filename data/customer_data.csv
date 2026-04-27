@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,Product,PurchaseAmount,Region,PurchaseDate
+1,25,Male,Laptop,50000,North,2026-01-01
+2,30,Female,Mobile,30000,South,2026-01-05
+3,22,Male,Tablet,20000,East,2026-02-10
+4,28,Female,Laptop,45000,West,2026-02-18
+5,35,Male,Mobile,25000,North,2026-03-01
