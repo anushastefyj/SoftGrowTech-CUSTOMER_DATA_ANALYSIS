@@ -137,4 +137,19 @@ Useful foundation for Data Science and Machine Learning
 🎯 FINAL OUTCOME
 
 
+<img width="802" height="600" alt="image" src="https://github.com/user-attachments/assets/c985cd2a-5e83-4f66-97d6-9f023e6fbc25" />
+
+<img width="801" height="602" alt="image" src="https://github.com/user-attachments/assets/a8c44e48-8e1a-4106-a4f0-04fdd36594cc" />
+
+<img width="799" height="599" alt="image" src="https://github.com/user-attachments/assets/aa8d501f-fa36-4cd6-b3f4-ffab698f70c7" />
+
+<img width="799" height="603" alt="image" src="https://github.com/user-attachments/assets/c48b682b-cb9c-4b14-a13e-99e58b5b85fb" />
+
 This project successfully transforms raw customer data into meaningful insights using Python. It demonstrates how data analysis can be used to support business strategies, improve customer understanding, and make informed decisions based on evidence rather than assumptions.
+
+
+
+
+
+
+
